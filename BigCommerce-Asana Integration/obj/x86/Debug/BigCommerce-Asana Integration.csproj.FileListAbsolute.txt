@@ -1,0 +1,23 @@
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\bin\Debug\BigCommerce-Asana Integration.exe.manifest
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\bin\Debug\BigCommerce-Asana Integration.application
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\bin\Debug\BigCommerce-Asana Integration.exe
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\bin\Debug\BigCommerce-Asana Integration.pdb
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\bin\Debug\Big-Ebay Inventory Management System.exe
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\bin\Debug\Big-Ebay Inventory Management System.pdb
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\MainWindow.baml
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\App.g.cs
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration_MarkupCompile.cache
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.g.resources
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce_Asana_Integration.Properties.Resources.resources
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.exe.manifest
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.application
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.exe
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.pdb
+D:\big-asana\BigCommerce-Asana Integration\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.exe
+D:\big-asana\BigCommerce-Asana Integration\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.pdb
+G:\My Apps\BigCommerce-Asana Integration\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.exe
+G:\My Apps\BigCommerce-Asana Integration\BigCommerce-Asana Integration\BigCommerce-Asana Integration\obj\x86\Debug\BigCommerce-Asana Integration.pdb
